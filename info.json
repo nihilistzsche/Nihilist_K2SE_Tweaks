@@ -1,0 +1,13 @@
+{
+  "name": "Nihilist_K2SE_Tweaks",
+  "version": "0.0.4",
+  
+  "title": "Nihilist_K2SE_Tweaks",
+  "description": "Personal K2/SE tweaks/fixes",
+  
+  "author": "nihilistzsche",
+  "license": "GPL3",
+  
+  "dependencies": ["base >= 1.1.6", "?Krastorio2", "?space-exploration-postprocess", "?bzaluminum", "? aai-industry"],
+  "factorio_version": "1.1"
+}

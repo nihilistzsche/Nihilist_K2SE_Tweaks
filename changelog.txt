@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: ????-??-??
+  Changes:
+    - Fix collision_mask on krastorio2 beltboxes and loaders when DeadlockBlackRubberBelts is 
+      installed.
+---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 2023-01-23
   Changes:
